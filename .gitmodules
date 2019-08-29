@@ -1,0 +1,3 @@
+[submodule "doc-src/themes/sodium"]
+	path = doc-src/themes/sodium
+	url = https://github.com/it-projects-llc/hugo-sodium-theme.git

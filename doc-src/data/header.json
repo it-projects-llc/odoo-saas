@@ -1,0 +1,22 @@
+{
+    "brand" : "Sodium Theme",
+    "logo" : "logo.png",
+    "links" : [
+        {
+            "title" : "Home",
+            "href" : ""
+        },
+        {
+            "title" : "Blog",
+            "href" : "blog"
+        },
+        {
+            "title" : "Work",
+            "href" : "work"
+        },
+        {
+            "title" : "Contact",
+            "href" : "#contact"
+        }
+    ]
+}
