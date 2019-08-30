@@ -3,16 +3,12 @@
     "logo" : "logo.png",
     "links" : [
         {
-            "title" : "Home",
-            "href" : ""
+            "title" : "Solutions",
+            "href" : "#solutions"
         },
         {
-            "title" : "Blog",
-            "href" : "blog"
-        },
-        {
-            "title" : "Work",
-            "href" : "work"
+            "title" : "Source",
+            "href" : "#source"
         },
         {
             "title" : "Contact",
