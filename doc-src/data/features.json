@@ -12,7 +12,7 @@
                 "Automatically scans your repositories and updates the modules"
             ],
             "button" : {
-                "text" : "Comming Soon...",
+                "text" : "Coming Soon...",
                 "href" : "https://github.com/it-projects-llc/odoo-saas-tools/issues/805"
             }
         },
@@ -25,7 +25,7 @@
                 "Automatic monthly invoices"
             ],
             "button" : {
-                "text" : "Comming Soon...",
+                "text" : "Coming Soon...",
                 "href" : "https://github.com/it-projects-llc/odoo-saas-tools/issues/805"
             }
         },
@@ -39,7 +39,7 @@
                 "Integrated with GitHub / GitLab / BitBucket"
             ],
             "button" : {
-                "text" : "Comming Soon...",
+                "text" : "Coming Soon...",
                 "href" : "https://github.com/it-projects-llc/saas-addons/issues/49"
             }
         }
