@@ -56,6 +56,7 @@ Source of the https://odoo-saas.sh website
 ### To recomplie website
 
 * execute following commands:
+
       cd doc-src
       make github
       git commit -a -m "recompile"
