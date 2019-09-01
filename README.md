@@ -24,25 +24,20 @@ Source of the https://odoo-saas.sh website
 
 ## Make updates
 
-To preview updates:
+### To preview updates
 
       cd doc-src
       hugo server -D
 
-To update content:
+### To update content
 
 * check folder ``doc-src/data/``
 * make updates
 * preview updates
-* recomplie docs:
-
-      cd doc-src
-      make github
-
+* recomplie website (see below)
 * make git commit
-* send pull request to this repo
 
-To update theme:
+### To update theme
 
 * check folder ``doc-src/themes/``
 * make updates
@@ -50,6 +45,19 @@ To update theme:
 * make git commit
 * send pull request to theme repo
 * wait while the pull request is merged
-* make pull request to this repo to update theme version
+* update theme version
 
-       # TODO make an instruction
+       # TODO check the instruction
+       git submodule update
+       git commit -a -m "theme updated"
+
+* recomplie website (see below)
+
+### To recomplie website
+
+* execute following commands:
+      cd doc-src
+      make github
+      git commit -a -m "recompile"
+
+* send pull request to this repo
