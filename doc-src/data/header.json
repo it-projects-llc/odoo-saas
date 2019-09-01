@@ -1,0 +1,18 @@
+{
+    "brand" : "Sodium Theme",
+    "logo" : "logo.png",
+    "links" : [
+        {
+            "title" : "Solutions",
+            "href" : "#solutions"
+        },
+        {
+            "title" : "Source",
+            "href" : "#source"
+        },
+        {
+            "title" : "Contact",
+            "href" : "#contact"
+        }
+    ]
+}

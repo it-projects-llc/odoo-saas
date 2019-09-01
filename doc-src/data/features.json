@@ -1,0 +1,47 @@
+{
+    "title" : "Solutions",
+    "description" : "",
+    "content" : [
+        {
+            "class" : "mt-3",
+            "icon" : "puzzle-piece",
+            "title" : "Demonstrate Apps",
+            "description" : "Solution For apps vendors",
+            "features": [
+                "Buttons to get personal preview in apps store or landing pages",
+                "Automatically scans your repositories and updates the modules"
+            ],
+            "button" : {
+                "text" : "Comming Soon...",
+                "href" : "https://github.com/it-projects-llc/odoo-saas-tools/issues/805"
+            }
+        },
+        {
+            "icon" : "dollar-sign",
+            "title" : "Sale Customizations",
+            "description" : "Solution For IT service companies",
+            "features": [
+                "Demo and trial instances for your customers",
+                "Automatic monthly invoices"
+            ],
+            "button" : {
+                "text" : "Comming Soon...",
+                "href" : "https://github.com/it-projects-llc/odoo-saas-tools/issues/805"
+            }
+        },
+        {
+            "class" : "mt-3",
+            "icon" : "code",
+            "title" : "Test Updates",
+            "description" : "CI tool for Quality Assurance",
+            "features": [
+                "Get a preview of updates faster than ever",
+                "Integrated with GitHub / GitLab / BitBucket"
+            ],
+            "button" : {
+                "text" : "Comming Soon...",
+                "href" : "https://github.com/it-projects-llc/saas-addons/issues/49"
+            }
+        }
+    ]
+}
