@@ -35,7 +35,6 @@ Source of the https://odoo-saas.sh website
 * make updates
 * preview updates
 * recomplie website (see below)
-* make git commit
 
 ### To update theme
 
