@@ -3,7 +3,7 @@
     "description" : "SaaS system for making Odoo instance faster than a cup of coffee.",
     "image" : "saas-coffee.jpg",
     "button" : {
-        "text" : "Comming Soon...",
+        "text" : "Coming Soon...",
         "href" : "https://github.com/it-projects-llc/odoo-saas-tools/issues/805"
     },
     "buttonDISABLED" : {
