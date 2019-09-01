@@ -13,7 +13,7 @@
             ],
             "button" : {
                 "text" : "Comming Soon...",
-                "href" : "#contact"
+                "href" : "https://github.com/it-projects-llc/odoo-saas-tools/issues/805"
             }
         },
         {
@@ -26,7 +26,7 @@
             ],
             "button" : {
                 "text" : "Comming Soon...",
-                "href" : "#contact"
+                "href" : "https://github.com/it-projects-llc/odoo-saas-tools/issues/805"
             }
         },
         {
@@ -40,7 +40,7 @@
             ],
             "button" : {
                 "text" : "Comming Soon...",
-                "href" : "#contact"
+                "href" : "https://github.com/it-projects-llc/saas-addons/issues/49"
             }
         }
     ]

@@ -4,7 +4,7 @@
     "image" : "saas-coffee.jpg",
     "button" : {
         "text" : "Comming Soon...",
-        "href" : "#contact"
+        "href" : "https://github.com/it-projects-llc/odoo-saas-tools/issues/805"
     },
     "buttonDISABLED" : {
         "text" : "Make new Odoo instance",
