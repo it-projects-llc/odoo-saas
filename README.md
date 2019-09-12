@@ -3,10 +3,6 @@
 
 Source of the https://odoo-saas.sh website
 
-# Roadmap
-
-* TODO: automate publishing github pages
-
 # How to contribute
 
 ## Initialization
@@ -34,7 +30,7 @@ Source of the https://odoo-saas.sh website
 * check folder ``doc-src/data/``
 * make updates
 * preview updates
-* recomplie website (see below)
+* send pull request to this repo
 
 ### To update theme
 
@@ -49,15 +45,5 @@ Source of the https://odoo-saas.sh website
        # TODO check the instruction
        git submodule update
        git commit -a -m "theme updated"
-
-* recomplie website (see below)
-
-### To recomplie website
-
-* execute following commands:
-
-      cd doc-src
-      make github
-      git commit -a -m "recompile"
 
 * send pull request to this repo
