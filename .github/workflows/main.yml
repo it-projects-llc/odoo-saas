@@ -14,7 +14,7 @@ jobs:
     - uses: jakejarvis/hugo-build-action@v0.57.2
       name: Rebuild
       with:
-        args: --minify -s doc-src/
+        args: -s doc-src/
     - name: Copy website to docs/
       run: cp -a doc-src/public/. docs
     - uses: matheusalbino/git-commit@v1.0.0
