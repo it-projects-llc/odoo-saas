@@ -12,8 +12,8 @@
                 "Automatically scans your repositories and updates the modules"
             ],
             "button" : {
-                "text" : "Coming Soon...",
-                "href" : "https://github.com/it-projects-llc/odoo-saas-tools/issues/805"
+                "text" : "Learn More",
+                "href" : "https://github.com/it-projects-llc/saas-addons/blob/12.0/saas_demo/doc/index.rst#quick-demo-databases"
             }
         },
         {
