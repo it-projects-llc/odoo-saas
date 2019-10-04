@@ -3,11 +3,11 @@
     "description" : "SaaS system for making Odoo instance faster than a cup of coffee.",
     "image" : "saas-coffee.jpg",
     "button" : {
-        "text" : "Coming Soon...",
-        "href" : "https://github.com/it-projects-llc/odoo-saas-tools/issues/805"
+        "text" : "Learn More",
+        "href" : "https://github.com/it-projects-llc/saas-addons/blob/12.0/saas_demo/doc/index.rst#quick-demo-databases"
     },
     "buttonDISABLED" : {
         "text" : "Make new Odoo instance",
-        "href" : "TOOD: make link to web_debranding fast demo build"
+        "href" : "https://apps.it-projects.info/demo/it-projects-llc/misc-addons/12.0/web_debranding"
     }
 }
