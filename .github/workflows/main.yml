@@ -17,7 +17,7 @@ jobs:
         args: -s doc-src/
     - name: Copy website to docs/
       run: cp -a doc-src/public/. docs
-    - uses: matheusalbino/git-commit@v1.0.0
+    - uses: matheusalbino/git-commit@v1.0.1
       name: Commit updates
       with:
         user-name: Mitchell Admin (from Github Actions)
